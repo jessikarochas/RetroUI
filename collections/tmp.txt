@@ -1,0 +1,18 @@
+./Game Gear/system_artwork/logo.png
+./Sega Master System/system_artwork/logo.png
+./Game Boy Advance/system_artwork/logo.png
+./PS1/system_artwork/logo.png
+./Game Boy/system_artwork/logo.png
+./NES/system_artwork/logo.png
+./Atari lynx/system_artwork/logo.png
+./Sega Genesis/system_artwork/logo.png
+./SNES/system_artwork/logo.png
+./WonderSwan/system_artwork/logo.png
+./Neo Geo Pocket/system_artwork/logo.png
+./Libretro/system_artwork/logo.png
+./Native games/system_artwork/logo.png
+./Pico8/system_artwork/logo.png
+./Pokemon Mini/system_artwork/logo.png
+./MAME/system_artwork/logo.png
+./MPlayer/system_artwork/logo.png
+./GMU/system_artwork/logo.png
