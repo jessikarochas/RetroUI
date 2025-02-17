@@ -16,3 +16,5 @@
 ./MAME/system_artwork/logo.png
 ./MPlayer/system_artwork/logo.png
 ./GMU/system_artwork/logo.png
+./Text Files/system_artwork/logo.png
+./Screenshots/system_artwork/logo.png
