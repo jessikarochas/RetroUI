@@ -18,3 +18,4 @@
 ./GMU/system_artwork/logo.png
 ./Text Files/system_artwork/logo.png
 ./Screenshots/system_artwork/logo.png
+./Virtualboy/system_artwork/logo.png
