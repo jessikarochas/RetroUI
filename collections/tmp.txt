@@ -19,3 +19,5 @@
 ./Text Files/system_artwork/logo.png
 ./Screenshots/system_artwork/logo.png
 ./Virtualboy/system_artwork/logo.png
+./Atari2600/system_artwork/logo.png
+./NDS/system_artwork/logo.png
