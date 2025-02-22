@@ -36,8 +36,8 @@ Follow these steps to install the PixelPerfect theme on your RetroFE setup:
 ![Game Selection Color](./screenshots/002.PNG)
 
 ### Minimal
-![Main Menu Minimal](./screenshots/001.PNG)
-![Game Selection Minimal](./screenshots/002.PNG)
+![Main Menu Minimal](./screenshots/003.PNG)
+![Game Selection Minimal](./screenshots/004.PNG)
 
 To change background:
 - Enter the images folder inside the theme folder
