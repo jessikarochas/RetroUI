@@ -5,7 +5,6 @@ Welcome to the **RetroUI** theme! This theme is designed specifically for the Re
 ## Features
 
 - **Optimized for RG Nano**: Perfectly tailored for the RG Nano's 240x240 screen resolution.
-- **Pixel Art Design**: A clean, retro pixel-art aesthetic for a nostalgic gaming feel.
 - **Custom Fonts and Icons**: Designed for readability and style on small screens.
 
 ## Installation
@@ -13,24 +12,32 @@ Welcome to the **RetroUI** theme! This theme is designed specifically for the Re
 Follow these steps to install the PixelPerfect theme on your RetroFE setup:
 
 1. **Download the Theme**:
-   - Download the latest release as a ZIP file.
+   - Download the latest release as a ZIP file
 
 2. **Extract the Theme**:
-   - If downloaded as a ZIP, extract the contents to a folder on your computer.
+   - If downloaded as a ZIP, extract the contents to a folder on your computer
 
 3. **Copy to Your Device**:
+   - Choose the version you want, either color or minimal and copy that specific folder (RetroUI color OR RetroUI minimal)
    - Transfer the theme folder to your Funkey OS SD card: /mnt/Funkey/.retrofe/layouts/
+   - Remember to edit the layouts.list that is present on the /mnt/Funkey/.retrofe/layouts/ folder and add a line with the name of the theme (=folder name)
 
 4. **Activate the Theme**:
-   - Press the Menu (on/off) button.
-   - Use the DPad (up/down keys) to find the theme selector.
-   - Choose the PixelPerfect.
-   - Confirm selection.
+   - Press the Menu (on/off) button
+   - Use the DPad (up/down keys) to find the theme selector
+   - Choose the RetroUI theme
+   - Confirm selection
+   - ENJOY!
 
 ## Screenshots
 
-![Main Menu](./screenshots/001.PNG)
-![Game Selection](./screenshots/002.PNG)
+### Color
+![Main Menu Color](./screenshots/001.PNG)
+![Game Selection Color](./screenshots/002.PNG)
+
+### Minimal
+![Main Menu Minimal](./screenshots/001.PNG)
+![Game Selection Minimal](./screenshots/002.PNG)
 
 To change background:
 - Enter the images folder inside the theme folder
