@@ -172,6 +172,20 @@
                 </set>
             </onMenuExit>
         </item> 
+        <item yOffset="210" alpha="0.33">
+            <onEnter> <set duration=".3"><animate type="alpha" to="0.33"/></set></onEnter>
+            <onExit> <set duration=".3"><animate type="alpha" to="0"/></set></onExit>
+            <onMenuEnter menuIndex="0">
+                <set duration=".4">
+                    <animate type="alpha" from="0" to="0.33" algorithm="easeincircular"/>
+                </set>
+            </onMenuEnter>
+            <onMenuExit menuIndex="0">
+                <set duration=".25">
+                    <animate type="alpha" from="0.33" to="0" algorithm="easeincircular"/>
+                </set>
+            </onMenuExit>
+        </item> 
         <item yOffset="240" alpha="0"/>
 
     </menu>
