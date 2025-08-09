@@ -67,7 +67,7 @@ Have suggestions, issues, or want to contribute? Feel free to open an issue or s
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this theme as long as attribution is provided.
+This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute this theme as long as attribution is provided.
 
 ---
 
