@@ -9,7 +9,7 @@ Welcome to the **RetroUI** theme! This theme is designed specifically for the Re
 
 ## Installation
 
-Follow these steps to install the PixelPerfect theme on your RetroFE setup:
+Follow these steps to install the RetroUI theme on your RetroFE setup:
 
 1. **Download the Theme**:
    - Download the latest release as a ZIP file
